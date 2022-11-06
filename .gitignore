@@ -46,3 +46,4 @@
 *.opendb
 *.db-wal
 *.lock
+*.recipe
