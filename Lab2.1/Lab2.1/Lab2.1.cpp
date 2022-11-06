@@ -25,6 +25,8 @@ int main()
 	cout << "z2 = " << z2 << endl;
 	cout << "Application end..." << endl;
 
+	cout << "This is TEST remote changes." << endl;
+
 	cin.get();
 	return 0;
 }
