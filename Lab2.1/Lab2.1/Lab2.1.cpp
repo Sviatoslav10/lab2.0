@@ -14,6 +14,8 @@ int main()
 
 	cout << "Now it's on the remote server." << endl;
 	cout << "This is MAIN branch." << endl;
+	cout << "This is TEST branch." << endl;
+
 	cout << "Application start..." << endl;
 	cout << "a = "; cin >> a;
 	cout << "b = "; cin >> b;
