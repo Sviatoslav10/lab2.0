@@ -12,6 +12,7 @@ int main()
 	double z1; // sin(α) + cos((2β - α))/cos(α) - sin((2β - α));
 	double z2; // 1 + sin(2β)/cos(2β);
 
+	cout << "This is MAIN branch." << endl;
 	cout << "Application start..." << endl;
 	cout << "a = "; cin >> a;
 	cout << "b = "; cin >> b;
